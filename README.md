@@ -28,6 +28,8 @@ URL：http://52.192.157.255/<br>
 自分に合っているのかは長期的に肌の調子を比べる必要があります。単なる化粧品の口コミサイトではなく、**日記のように
 肌の調子とその時使った製品を記録できれば、効率よく自分に合ったものを見つけられる**と思い、製作を決めました。
 
+### 工夫した点
+
 ### ターゲットユーザ
 20代～40代の女性
 
@@ -35,6 +37,9 @@ URL：http://52.192.157.255/<br>
 毎日　寝る前や朝など
 
 ## 設計書
+### ER図
+
+![skin_note_README](https://user-images.githubusercontent.com/68380272/102694714-38161200-4266-11eb-9738-ccae4cca8fe8.jpg)
 
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/1tJy35gak4GvcZL81x8pH8F9z10YMaWqw0YK1LUwqDUQ/edit?usp=sharing
