@@ -39,7 +39,7 @@ URL：http://52.192.157.255/<br>
 ## 設計書
 ### ER図
 
-![skin_note_README](https://user-images.githubusercontent.com/68380272/102694714-38161200-4266-11eb-9738-ccae4cca8fe8.jpg)
+![skin_note_README](https://user-images.githubusercontent.com/68380272/102710190-f633ad00-42f3-11eb-9b45-8d26e5088721.jpg)
 
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/1tJy35gak4GvcZL81x8pH8F9z10YMaWqw0YK1LUwqDUQ/edit?usp=sharing
