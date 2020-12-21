@@ -54,15 +54,15 @@ URL：http://52.192.157.255/<br>
 
 ### 機能一覧
 
-・データ可視化（chart.js）
-・ログイン機能（devise）
-・評価/レビュー（raty.js）
-・ページネーション（kaminari）
-・テスト（RSpec)
-・ランキング機能
-・いいね機能
-・画像投稿機能
-・つぶやき/コメント機能
+・データ可視化（chart.js）<br>
+・ログイン機能（devise）<br>
+・評価/レビュー（raty.js）<br>
+・ページネーション（kaminari）<br>
+・テスト（RSpec）<br>
+・ランキング機能<br>
+・いいね機能<br>
+・画像投稿機能<br>
+・つぶやき/コメント機能<br>
 
 https://docs.google.com/spreadsheets/d/1tJy35gak4GvcZL81x8pH8F9z10YMaWqw0YK1LUwqDUQ/edit?usp=sharing
 
