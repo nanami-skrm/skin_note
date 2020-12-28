@@ -66,11 +66,20 @@ URL：http://52.192.157.255/<br>
 
 https://docs.google.com/spreadsheets/d/1tJy35gak4GvcZL81x8pH8F9z10YMaWqw0YK1LUwqDUQ/edit?usp=sharing
 
-## 開発環境
-OS：Windows 10
-言語：HTML,CSS,JavaScript,Ruby,SQL
-フレームワーク：Ruby on Rails
-仮想環境：Vagrant,VirtualBox
+## 環境・使用技術
+
+### フロントエンド
+JavaScript、jQuery<br>
+Bootstrap 4.5.0<br>
+SCSS (BEM)<br>
+
+### サーバーサイド
+Ruby 2.5.7<br>
+Rails 5.2.4.4<br>
+
+### 開発環境
+Vagrant 2.2.14<br>
+VirtualBox<br>
 
 ## 使用素材
 画像：https://o-dan.net/ja/
