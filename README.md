@@ -69,17 +69,17 @@ https://docs.google.com/spreadsheets/d/1tJy35gak4GvcZL81x8pH8F9z10YMaWqw0YK1LUwq
 ## 環境・使用技術
 
 ### フロントエンド
-JavaScript、jQuery<br>
-Bootstrap 4.5.0<br>
-SCSS (BEM)<br>
+・JavaScript、jQuery<br>
+・Bootstrap 4.5.0<br>
+・SCSS (BEM)<br>
 
 ### サーバーサイド
-Ruby 2.5.7<br>
-Rails 5.2.4.4<br>
+・Ruby 2.5.7<br>
+・Rails 5.2.4.4<br>
 
 ### 開発環境
-Vagrant 2.2.14<br>
-VirtualBox<br>
+・Vagrant 2.2.14<br>
+・VirtualBox<br>
 
 ## 使用素材
 画像：https://o-dan.net/ja/
